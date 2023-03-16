@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![C:\Users\Koya\Desktop\Programming\PROJECTS\Frontend Mentor\Newbie\qr-code-component-main\screenshot.JPG](./screenshot.jpg)
+![images/screenshot.JPG](./screenshot.jpg)
 
 ### Links
 
